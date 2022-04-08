@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAHULSHARMA-1421
+- 👋 Hi, I’m RAHULSHARMA
 - 👀 I’m interested in ...Python and Django
 - 💞️ I’m looking to collaborate on ...want to work in any commany who need me
 - 📫 How to reach me ...by my email imrahulsharma1199@gmail.com
